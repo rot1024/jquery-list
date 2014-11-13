@@ -203,7 +203,7 @@ $("#list").list("method name", arguments);
 
 ## Licence
 
-[MIT](LICENCE)
+[MIT](LICENSE)
 
 ## Author
 
