@@ -1,6 +1,6 @@
 /*
  * jQuery-list
- * Copyright (c) 2015 rot
+ * Copyright (c) 2015 rot1024
  * MIT License
  */
 (function($) {
