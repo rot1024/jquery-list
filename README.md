@@ -5,7 +5,7 @@ jQuery 1.x/2.x sortable and multiselectable list plugin
 
 ## Demo
 
-[Live demo](http://rot1024.github.io/list.js/)
+[Live demo](http://rot1024.github.io/jquery-list/)
 
 ## Usage
 
