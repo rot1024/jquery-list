@@ -1,6 +1,6 @@
 /*
- * list.js
- * Copyright (c) 2014 rot
+ * jQuery-list
+ * Copyright (c) 2015 rot
  * MIT License
  */
 (function($) {

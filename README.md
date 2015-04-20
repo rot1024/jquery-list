@@ -1,15 +1,11 @@
-list.js
-=======
+jQuery-list
+===========
 
-jQuery sortable and multiselectable list plugin
+jQuery 1.x/2.x sortable and multiselectable list plugin
 
 ## Demo
 
 [Live demo](http://rot1024.github.io/list.js/)
-
-## Requirement
-
-jQuery 1.x / 2.x
 
 ## Usage
 
